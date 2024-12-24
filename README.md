@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, my name is <a href="https://aristi.dev">Julio Elsner</a> 👋</h1>
+<h1 align="center">Hi, my name is <a href="https://aristi.dev">Julio Elsner</a> </h1>
 </div>
-<img src="https://i.imgur.com/a/KXuTUnL">
+<img src="https://i.imgur.com/sNe5Uyt.png">
 
 <!--
 **JulioElsnerDLTU/JulioElsnerDLTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
