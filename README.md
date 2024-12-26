@@ -24,10 +24,9 @@
 </td>
 
 <td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioElsnerDLTU&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="100%" />
+</td>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioElsnerDLTU&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
